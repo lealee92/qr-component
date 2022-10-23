@@ -4,12 +4,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-Markup : _ Overview
-_ Screenshot
-_ Links
-_ My process
-_ Built with
-_ Author
+- Overview
+  - Screenshot
+  - Links
+- My process
+  - Built with
+  - Author
 
 ### Overview
 
