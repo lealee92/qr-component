@@ -19,7 +19,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Screenshot
 
-!(images/qr-components-screenshot.png)
+<img width="1552" alt="qr-components-screenshot" src="https://user-images.githubusercontent.com/74474230/197405015-e428f587-3079-41c1-8c23-5a13bccf8a3b.png">
 
 ### Links
 
