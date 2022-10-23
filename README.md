@@ -19,6 +19,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Screenshot
 
+!(images/qr-components-screenshot.png)
+
 ### Links
 
 - Live site URL : [Click here](https://lealee92.github.io/qr-component/)
