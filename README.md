@@ -21,7 +21,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Links
 
-- Live site URL : [Click here] (https://lealee92.github.io/qr-component/)
+- Live site URL : [Click here](https://lealee92.github.io/qr-component/)
 
 ## My Process
 
@@ -31,7 +31,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 - Semantic HTML5 markup
 - Desktop-first workflow
 
-### Auhor
+### Author
 
 - Frontend Mentor - [@lealee92](https://www.frontendmentor.io/profile/lealee92)
 

@@ -2,7 +2,6 @@ body {
   background-color: #d4e1ef;
   overflow: hidden;
   font-family: "Roboto";
-  position: relative;
 }
 * {
   box-sizing: border-box;
@@ -11,22 +10,18 @@ body {
 }
 
 .container {
-  height: 70vh;
-  max-width: 320px;
-  background-color: white;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
   margin: auto;
+  max-width: 320px;
+}
+.card {
+  background-color: white;
   padding: 1em;
-  position: absolute;
   border-radius: 1em;
   box-shadow: 0 14px 20px rgba(145, 142, 142, 0.25);
-
-  align-items: center;
-  margin-top: 6em;
+  margin-top: 3em;
+  align-self: center;
 }
+
 .image {
   width: 99%;
   margin: 0 auto;
@@ -45,4 +40,10 @@ body {
   width: 90%;
   text-align: center;
   margin: 1em auto;
+}
+
+@media only screen and (min-width: 1080px) {
+  .card {
+    margin-top: 8em;
+  }
 }
