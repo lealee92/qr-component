@@ -31,6 +31,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 - CSS properties
 - Semantic HTML5 markup
+- Flexbox
 - Desktop-first workflow
 
 ### Author
